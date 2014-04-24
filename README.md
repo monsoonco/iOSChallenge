@@ -44,7 +44,7 @@ Starting from the upper right and moving across each control has the following c
 ### Bonus Points
 1. Animations (and sound)for when the for randomize button is pressed 
 2. Custom animation in or out of this VC
-3. The Custom UIController is accessible via storyboard. 
+3. The Custom UIControl you create is accessible via storyboard. 
 
 The goal here is to create the View Controller to be as functional as possible, and as Pixel perfect as possible with code that is self documenting, and easily understandable by another developer.  
 
