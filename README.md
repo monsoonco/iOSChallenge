@@ -48,7 +48,7 @@ Starting from the upper right and moving across each control has the following c
 
 The goal here is to create the View Controller to be as functional as possible, and as Pixel perfect as possible with code that is self documenting, and easily understandable by another developer.  
 
-Please post your completed Xcode project to Github and share a link with andrew[at]monsoonco[dot]com. 
+Please post your completed Xcode project to Github and share a link with eric[at]monsoonco[dot]com. 
 
-If you have any questions feel free to reach out to andrew[at]monsoonco[dot]com. 
+If you have any questions feel free to reach out to eric[at]monsoonco[dot]com. 
 
