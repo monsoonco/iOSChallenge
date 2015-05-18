@@ -50,5 +50,5 @@ The goal here is to create the View Controller to be as functional as possible, 
 
 Please post your completed Xcode project to Github and share a link with eric[at]monsoonco[dot]com. 
 
-If you have any questions feel free to reach out to eric[at]monsoonco[dot]com. 
+If you have any questions feel free to reach out to eric[at]monsoonco[dot]com. When you have completed the test, please send GitHub link to the person who administered you the test.
 
